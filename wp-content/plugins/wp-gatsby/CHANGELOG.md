@@ -1,5 +1,45 @@
 # Change Log
 
+## 0.4.8
+
+Pushing release to WordPress.org
+
+## 0.4.7
+
+### New Features
+
+- Added a link to the GatsbyJS settings page on how to configure this plugin.
+
+### Bug Fixes
+
+- Activating this plugin before WPGraphQL was causing PHP errors.
+
+## 0.4.6
+
+Add Wapuu Icons for display in the WordPress.org repo
+
+## 0.4.5
+
+Re-publish with proper package name
+
+## 0.4.4
+
+Testing Github Actions
+
+## 0.4.3
+
+New release to trigger publishing to WordPress.org!
+
+## 0.4.2
+
+### Bug Fixes
+
+- Previously when a post transitioned from published to draft, it wouldn't be deleted in Gatsby
+
+## 0.4.1
+
+Version bump to add /vendor directory to Git so that Github releases work as WP plugins without running `composer install`. In the future there will be a better release process, but for now this works.
+
 ## 0.4.0
 
 ### Breaking Changes

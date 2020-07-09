@@ -41,7 +41,7 @@ define( 'DB_COLLATE', '' );
 define('FS_METHOD','direct');
 
 /** Turn on degbug. */
-define('WP_DEBUG',true);
+// define('WP_DEBUG',true);
 
 /**#@+
  * Authentication Unique Keys and Salts.
